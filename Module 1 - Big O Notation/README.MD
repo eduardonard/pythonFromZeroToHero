@@ -22,7 +22,7 @@ def constantTimeComplexity(n):
 
 - O(log n) - Logarithmic time complexity. The algorithm's execution time increases logarithmically with the input size. This is commonly seen in algorithms that divide the input in half at each step, such as binary search.
 ```python
-def binary_search(arr, low, high, x):
+def logarithmicTimeComplexity(arr, low, high, x):
  
     # Check base case
     if high >= low:
@@ -36,11 +36,11 @@ def binary_search(arr, low, high, x):
         # If element is smaller than mid, then it can only
         # be present in left subarray
         elif arr[mid] > x:
-            return binary_search(arr, low, mid - 1, x)
+            return logarithmicTimeComplexity(arr, low, mid - 1, x)
  
         # Else the element can only be present in right subarray
         else:
-            return binary_search(arr, mid + 1, high, x)
+            return logarithmicTimeComplexity(arr, mid + 1, high, x)
  
     else:
         # Element is not present in the array
