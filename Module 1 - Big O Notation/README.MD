@@ -22,8 +22,17 @@ def constantTimeComplexity(n):
 
 - O(log n) - Logarithmic time complexity. The algorithm's execution time increases logarithmically with the input size. This is commonly seen in algorithms that divide the input in half at each step, such as binary search.
 ```python
-def logarithmicTimeComplexity(a, b)
-    raise TODO
+def logarithmicTimeComplexity(arr, low, high, x):
+    if high >= low:
+        mid = (high + low) // 2
+        if arr[mid] == x:
+            return mid
+        elif arr[mid] > x:
+            return logarithmicTimeComplexity(arr, low, mid - 1, x)
+         else:
+            return logarithmicTimeComplexity(arr, mid + 1, high, x)
+    else:
+        return -1
 ```
 
 - O(n) - Linear time complexity. The algorithm's execution time increases linearly with the input size. As the input doubles, the execution time also doubles.
