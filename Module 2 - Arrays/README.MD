@@ -30,7 +30,11 @@ def traversing(array):
     for i in array:
         print i
 ```
-
+Accessing an n dimensional array
+```python
+def accessing(array):
+    array[0][0][0]#...n times
+```
 Arrays in Python (implemented using lists) provide various built-in functions and methods to manipulate and operate on the array elements. Some common operations include appending elements, removing elements, finding the length of the array, sorting, and more.
 
 While arrays implemented using lists in Python are convenient and flexible, they may not have the same performance benefits as arrays in lower-level languages. If performance is critical, you might consider using specialized libraries like NumPy or arrays from the array module, which provide efficient array operations and optimized memory usage.
