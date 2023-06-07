@@ -6,8 +6,9 @@
 | Traversing             | O(N) | O(1)  |
 | Accessing              | O(1) | O(1)  |
 | Searching              | O(N) | O(1)  |
-| Deleting               | O(N) | O(1)  |
+| Deleting               | O(N) | O(N)  |
 
+N = product of dimensions of array
 ```python
 from array import *
 ```
