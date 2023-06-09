@@ -29,9 +29,21 @@ print(my_list)  # Output: [1, 2, "three", 5.0, 6, 7, 8, 9]
 print(len(my_list))        # Output: 8
 print(my_list.index(5.0))  # Output: 3
 print(my_list.count(2))    # Output: 1
+
+my_list = [1,2,3,4,5,6,7]
+new_list = [item*2 for item in my_list] #list comprehension
 ```
 Lists in Python provide a range of built-in functions and methods to manipulate and operate on the list elements. Some common operations include appending elements, extending the list with another list, removing elements, finding the length of the list, and more.
 
 Python lists are mutable, meaning you can modify the elements within the list. This flexibility makes lists a fundamental data structure for various tasks, such as storing collections of data, implementing algorithms, and building more complex data structures.
 
 Understanding how to work with lists in Python is essential for efficient programming and data manipulation tasks.
+| Operation              | Time | Space |
+|------------------------|------|-------|
+| Creating Empty         | O(1) | O(1)  |
+| Creating With Elements | O(N) | O(N)  |
+| Inserting              | O(N) | O(1)  |
+| Traversing             | O(N) | O(1)  |
+| Accessing              | O(1) | O(1)  |
+| Searching              | O(N) | O(1)  |
+| Deleting               | O(N) | O(1)  |
