@@ -30,8 +30,7 @@ print(len(my_list))        # Output: 8
 print(my_list.index(5.0))  # Output: 3
 print(my_list.count(2))    # Output: 1
 
-my_list = [1,2,3,4,5,6,7]
-new_list = [item*2 for item in my_list] #list comprehension
+
 ```
 Lists in Python provide a range of built-in functions and methods to manipulate and operate on the list elements. Some common operations include appending elements, extending the list with another list, removing elements, finding the length of the list, and more.
 
