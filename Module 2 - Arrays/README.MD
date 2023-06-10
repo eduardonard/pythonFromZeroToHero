@@ -14,7 +14,6 @@ print(my_array[2])  # Output: 3
 ```
 
 
-
 Arrays in Python are zero-indexed, meaning the first element is accessed using index 0, the second element with index 1, and so on.
 
 Python lists also have the flexibility to store elements of different data types in the same list. For example:
