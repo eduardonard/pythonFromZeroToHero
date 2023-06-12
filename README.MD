@@ -6,7 +6,7 @@ Welcome to the Python Programming Course repository! This course aims to provide
 
 - [Introduction](#introduction)
 <details>
-<summary> [Big O Notation](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation) </summary>
+<summary>Big O Notation</summary>
   
 - [O(1) Constant Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
 - [O(n) Linear Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
