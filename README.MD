@@ -4,41 +4,9 @@ Welcome to the Python Programming Course repository! This course aims to provide
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 <details>
-<summary>Big O Notation</summary>
-  
-- [O(1) Constant Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-- [O(n) Linear Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-- [O(log n) Logarithmic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-- [O(n^2) Quadratic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-- [O(n!) Factorial Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-
-</details>
-- [Data Structures](#data-structures)
-  - [Arrays](Module&#32;2&#32;-&#32;Arrays)
-  - [Lists](Module&#32;3&#32;-&#32;Lists)
-  - [Tuples](#tuples)
-  - [Dictionaries](#dictionaries)
-  - [Sets](#sets)
-- [Object-Oriented Programming](#object-oriented-programming)
-  - [Classes and Objects](#classes-and-objects)
-  - [Inheritance](#inheritance)
-  - [Encapsulation](#encapsulation)
-  - [Polymorphism](#polymorphism)
-- [Recursion](#recursion)
-  - [Recursive Functions](#recursive-functions)
-  - [Base Case and Recursive Case](#base-case-and-recursive-case)
-  - [Common Recursive Problems](#common-recursive-problems)
-- [Algorithms](#algorithms)
-  - [Sorting Algorithms](#sorting-algorithms)
-  - [Searching Algorithms](#searching-algorithms)
-  - [Graph Traversal Algorithms](#graph-traversal-algorithms)
-
-- [Additional Resources](#additional-resources)
-
-## Introduction
-
+<summary>Introduction</summary>
+ 
 Welcome to the Python Programming Course repository! This course aims to provide a comprehensive introduction to Python, focusing on data structures, object-oriented programming, recursion, algorithms, and Big O notation.
 
 ### Why This Repository?
@@ -70,3 +38,37 @@ Feel free to explore the content at your own pace. Take your time to grasp each 
 I believe that education should be accessible to all, regardless of financial constraints. Therefore, this course is completely free of charge. All I ask is that you share this resource with others who may benefit from it. Together, let's empower more individuals to unlock their full potential as Python programmers!
 
 Now, let's dive in and embark on this exciting Python programming journey!
+
+  
+</details>
+<details>
+<summary>Big O Notation</summary>
+  
+- [O(1) Constant Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(n) Linear Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(log n) Logarithmic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(n^2) Quadratic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(n!) Factorial Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+
+</details>
+- [Data Structures](#data-structures)
+  - [Arrays](Module&#32;2&#32;-&#32;Arrays)
+  - [Lists](Module&#32;3&#32;-&#32;Lists)
+  - [Tuples](#tuples)
+  - [Dictionaries](#dictionaries)
+  - [Sets](#sets)
+- [Object-Oriented Programming](#object-oriented-programming)
+  - [Classes and Objects](#classes-and-objects)
+  - [Inheritance](#inheritance)
+  - [Encapsulation](#encapsulation)
+  - [Polymorphism](#polymorphism)
+- [Recursion](#recursion)
+  - [Recursive Functions](#recursive-functions)
+  - [Base Case and Recursive Case](#base-case-and-recursive-case)
+  - [Common Recursive Problems](#common-recursive-problems)
+- [Algorithms](#algorithms)
+  - [Sorting Algorithms](#sorting-algorithms)
+  - [Searching Algorithms](#searching-algorithms)
+  - [Graph Traversal Algorithms](#graph-traversal-algorithms)
+
+- [Additional Resources](#additional-resources)
