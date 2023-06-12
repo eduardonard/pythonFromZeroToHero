@@ -90,7 +90,10 @@ def quadraticTimeComplexity(n):
 def exponentialTimeComplexity(a, b)
     raise TODO
 ```
-
+```python
+def factorialTimeComplexity(a, b)
+    raise TODO
+```
 Understanding runtime complexity helps in analyzing and comparing the efficiency of different algorithms. It allows us to estimate how an algorithm's execution time will scale with the input size, enabling us to make informed decisions when choosing the most suitable algorithm for a particular problem.
 
 ## Operations
