@@ -63,6 +63,7 @@ Now, let's dive in and embark on this exciting Python programming journey!
 </details>
 <details>
 <summary>Object Oriented Programming</summary>
+ 
   - [Classes and Objects](#classes-and-objects)
   - [Inheritance](#inheritance)
   - [Encapsulation](#encapsulation)
@@ -71,6 +72,7 @@ Now, let's dive in and embark on this exciting Python programming journey!
 </details>
 <details>
 <summary>Recursion</summary>
+ 
   - [Recursive Functions](#recursive-functions)
   - [Base Case and Recursive Case](#base-case-and-recursive-case)
   - [Common Recursive Problems](#common-recursive-problems)
@@ -78,8 +80,10 @@ Now, let's dive in and embark on this exciting Python programming journey!
 </details>
 <details>
 <summary>Algorithms</summary>
+ 
  - [Sorting Algorithms](#sorting-algorithms)
-  - [Searching Algorithms](#searching-algorithms)
-  - [Graph Traversal Algorithms](#graph-traversal-algorithms)
-
+ - [Searching Algorithms](#searching-algorithms)
+ - [Graph Traversal Algorithms](#graph-traversal-algorithms)
+ 
+</details>
 - [Additional Resources](#additional-resources)
