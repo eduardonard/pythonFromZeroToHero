@@ -86,4 +86,5 @@ Now, let's dive in and embark on this exciting Python programming journey!
  - [Graph Traversal Algorithms](#graph-traversal-algorithms)
  
 </details>
-- [Additional Resources](#additional-resources)
+
+[Additional Resources](#additional-resources)
