@@ -6,7 +6,7 @@ Welcome to the Python Programming Course repository! This course aims to provide
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
-  - [Arrays](Module\ 2\ -\ Arrays/readme.md)
+  - [Arrays](Module&#32;2&#32;-&#32;Arrays/readme.md)
   - [Lists](#lists)
   - [Tuples](#tuples)
   - [Dictionaries](#dictionaries)
