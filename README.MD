@@ -7,11 +7,11 @@ Welcome to the Python Programming Course repository! This course aims to provide
 - [Introduction](#introduction)
 <details>
 <summary>[Big O Notation](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)</summary>
-  - [O(1) Constant Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-  - [O(n) Linear Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-  - [O(log n) Logarithmic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-  - [O(n^2) Quadratic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
-  - [O(n!) Factorial Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(1) Constant Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(n) Linear Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(log n) Logarithmic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(n^2) Quadratic Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
+- [O(n!) Factorial Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
 
 </details>
 - [Data Structures](#data-structures)
