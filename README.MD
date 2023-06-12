@@ -51,23 +51,34 @@ Now, let's dive in and embark on this exciting Python programming journey!
 - [O(n!) Factorial Time](Module&#32;1&#32;-&#32;Big&#32;O&#32;Notation)
 
 </details>
-- [Data Structures](#data-structures)
+<details>
+<summary>Data Structures</summary>
+ 
   - [Arrays](Module&#32;2&#32;-&#32;Arrays)
   - [Lists](Module&#32;3&#32;-&#32;Lists)
   - [Tuples](#tuples)
   - [Dictionaries](#dictionaries)
   - [Sets](#sets)
-- [Object-Oriented Programming](#object-oriented-programming)
+
+</details>
+<details>
+<summary>Object Oriented Programming</summary>
   - [Classes and Objects](#classes-and-objects)
   - [Inheritance](#inheritance)
   - [Encapsulation](#encapsulation)
   - [Polymorphism](#polymorphism)
-- [Recursion](#recursion)
+
+</details>
+<details>
+<summary>Recursion</summary>
   - [Recursive Functions](#recursive-functions)
   - [Base Case and Recursive Case](#base-case-and-recursive-case)
   - [Common Recursive Problems](#common-recursive-problems)
-- [Algorithms](#algorithms)
-  - [Sorting Algorithms](#sorting-algorithms)
+ 
+</details>
+<details>
+<summary>Algorithms</summary>
+ - [Sorting Algorithms](#sorting-algorithms)
   - [Searching Algorithms](#searching-algorithms)
   - [Graph Traversal Algorithms](#graph-traversal-algorithms)
 
