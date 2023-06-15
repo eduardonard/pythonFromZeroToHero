@@ -4,8 +4,7 @@ When a dictionary is created, Python allocates memory to store the dictionary ob
 
 Here's a simplified representation of how a dictionary may be stored in memory:
 
-```diff
-
+```
 +----------------+
 |   Dictionary   |
 +----------------+
