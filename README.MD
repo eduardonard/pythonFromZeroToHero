@@ -56,8 +56,8 @@ Now, let's dive in and embark on this exciting Python programming journey!
  
   - [Arrays](Module&#32;2&#32;-&#32;Arrays)
   - [Lists](Module&#32;3&#32;-&#32;Lists)
-  - [Tuples](#tuples)
-  - [Dictionaries](#dictionaries)
+  - [Dictionaries](Module&#32;4&#32;-&#32;Dictionaries)
+  - [Tuples](Module&#32;5&#32;-&#32;Tuples)
   - [Sets](#sets)
 
 </details>
