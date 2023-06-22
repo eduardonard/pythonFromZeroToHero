@@ -31,8 +31,7 @@ This course is designed for individuals who already have a basic understanding o
 
 ### How to Use This Repository
 
-Each section of this repository corresponds to a specific topic. You can navigate through the sections using the table of contents provided. Within each section, you will find detailed explanations, code examples, and exercises to practice your skills.
-
+Each section of this repository corresponds to a specific topic. 
 Feel free to explore the content at your own pace. Take your time to grasp each concept before moving on to the next. Don't hesitate to ask questions or seek clarification on any topic. Remember, the journey from coding to becoming a pro requires patience, dedication, and practice.
 
 I believe that education should be accessible to all, regardless of financial constraints. Therefore, this course is completely free of charge. All I ask is that you share this resource with others who may benefit from it. Together, let's empower more individuals to unlock their full potential as Python programmers!
