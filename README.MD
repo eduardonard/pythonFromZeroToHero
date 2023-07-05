@@ -2,6 +2,7 @@
 
 Welcome to the Python Programming Course repository! This course aims to provide a comprehensive introduction to Python, focusing on data structures, object-oriented programming, recursion, algorithms, and Big O notation.
 
+
 ## Table of Contents
 
 <details>
